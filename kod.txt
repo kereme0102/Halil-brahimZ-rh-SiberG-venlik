@@ -1,0 +1,7 @@
+import os
+os.system("nmap twitter.com -oX ibram.xml")
+
+##
+Operation System lib
+##
+Operation System Command 
